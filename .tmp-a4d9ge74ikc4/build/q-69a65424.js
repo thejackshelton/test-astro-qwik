@@ -1,1 +1,0 @@
-import{W as r,S as s,a as _,h as a,_ as n}from"./q-a3f032d7.js";const i=()=>{const o=r(0);return s("button",null,{onClick$:a(()=>n(()=>import("./q-225f5de6.js"),["build/q-225f5de6.js","build/q-a3f032d7.js"]),"s_rlI5i1rGVBI",[o])},_(t=>t.value,[o]),3,"S5_0")};export{i as s_xMZsMKg2jLo};
