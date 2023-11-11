@@ -14,7 +14,7 @@
     "@astrojs/cloudflare": "^7.6.4",
     "@astrojs/netlify": "^3.0.4",
     "@builder.io/qwik": "^1.2.17",
-    "@qwikdev/astro": "^0.1.5",
+    "@qwikdev/astro": "^0.1.11",
     "astro": "^3.4.3",
     "typescript": "^5.2.2"
   }
